@@ -454,3 +454,28 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 3844.944730 seconds.
+  path: Assets/Scripts/Timer.cs
+  artifactKey: Guid(9dbc5934544bc544891d967effb7e0a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Timer.cs using Guid(9dbc5934544bc544891d967effb7e0a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a4f1e69ce53a5f31fee0b3eb4b60040') in 0.435383 seconds 
+  Import took 0.905787 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.727193 seconds.
+  path: Assets/Scripts/Scores.cs
+  artifactKey: Guid(e6da1652049e31c4b869f322c545b5da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Scores.cs using Guid(e6da1652049e31c4b869f322c545b5da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e35c5c9d3cebeb6ff9a93efe3036a54a') in 0.003029 seconds 
+  Import took 0.039484 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 166.143714 seconds.
+  path: Assets/Scripts/ActivateAfterDelay.cs
+  artifactKey: Guid(949db2f5c997b4f4a856251f9dc3f9ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ActivateAfterDelay.cs using Guid(949db2f5c997b4f4a856251f9dc3f9ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aadc22d0c1ec59fa0ecfdd449c7ba31d') in 0.005161 seconds 
+  Import took 0.049665 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
